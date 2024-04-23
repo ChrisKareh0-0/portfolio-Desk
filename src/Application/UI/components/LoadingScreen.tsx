@@ -314,7 +314,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             will need to use a different browser.
                         </p>
                         <div style={styles.spacer} />
-                        <p>Thank you - Henry</p>
+                        <p>Thank you </p>
                     </div>
                 </div>
             )}
